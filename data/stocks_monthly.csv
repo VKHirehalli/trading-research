@@ -1,0 +1,289 @@
+strategy,year,month,return_pct,net_pnl_rs
+All three combined,2020,1,19.89,198900
+All three combined,2020,2,25.43,254300
+All three combined,2020,3,26.21,262100
+All three combined,2020,4,6.28,62800
+All three combined,2020,5,31.84,318400
+All three combined,2020,6,20.87,208700
+All three combined,2020,7,25.32,253200
+All three combined,2020,8,20.65,206500
+All three combined,2020,9,19.02,190200
+All three combined,2020,10,5.78,57800
+All three combined,2020,11,-17.41,-174100
+All three combined,2020,12,21.01,210100
+All three combined,2021,1,43.24,432400
+All three combined,2021,2,27.54,275400
+All three combined,2021,3,35.13,351300
+All three combined,2021,4,12.22,122200
+All three combined,2021,5,30.05,300500
+All three combined,2021,6,18.55,185500
+All three combined,2021,7,8.75,87500
+All three combined,2021,8,28.62,286200
+All three combined,2021,9,27.06,270600
+All three combined,2021,10,28.51,285100
+All three combined,2021,11,-8.94,-89400
+All three combined,2021,12,19.77,197700
+All three combined,2022,1,12.42,124200
+All three combined,2022,2,18.53,185300
+All three combined,2022,3,21.43,214300
+All three combined,2022,4,33.86,338600
+All three combined,2022,5,32.82,328200
+All three combined,2022,6,29.06,290600
+All three combined,2022,7,11.64,116400
+All three combined,2022,8,7.06,70600
+All three combined,2022,9,33.93,339300
+All three combined,2022,10,37.51,375100
+All three combined,2022,11,27.39,273900
+All three combined,2022,12,51.56,515600
+All three combined,2023,1,43.33,433300
+All three combined,2023,2,16.95,169500
+All three combined,2023,3,29.64,296400
+All three combined,2023,4,-3.92,-39200
+All three combined,2023,5,-3.79,-37900
+All three combined,2023,6,17.98,179800
+All three combined,2023,7,7.01,70100
+All three combined,2023,8,15.69,156900
+All three combined,2023,9,20.29,202900
+All three combined,2023,10,8.12,81200
+All three combined,2023,11,23.12,231200
+All three combined,2023,12,20.22,202200
+All three combined,2024,1,39.5,395000
+All three combined,2024,2,36.95,369500
+All three combined,2024,3,31.64,316400
+All three combined,2024,4,13.93,139300
+All three combined,2024,5,8.53,85300
+All three combined,2024,6,-10.22,-102200
+All three combined,2024,7,23.75,237500
+All three combined,2024,8,14.36,143600
+All three combined,2024,9,14.29,142900
+All three combined,2024,10,18.3,183000
+All three combined,2024,11,-0.36,-3600
+All three combined,2024,12,-8.09,-80900
+All three combined,2025,1,26.86,268600
+All three combined,2025,2,16.93,169300
+All three combined,2025,3,15.61,156100
+All three combined,2025,4,10.03,100300
+All three combined,2025,5,6.36,63600
+All three combined,2025,6,-5.21,-52100
+All three combined,2025,7,2.95,29500
+All three combined,2025,8,5.37,53700
+All three combined,2025,9,15.27,152700
+All three combined,2025,10,14.59,145900
+All three combined,2025,11,16.7,167000
+All three combined,2025,12,11.52,115200
+Contrarian basket,2020,1,40.74,407400
+Contrarian basket,2020,2,12.15,121500
+Contrarian basket,2020,3,30.28,302800
+Contrarian basket,2020,4,23.56,235600
+Contrarian basket,2020,5,32.52,325200
+Contrarian basket,2020,6,55.1,551000
+Contrarian basket,2020,7,18.95,189500
+Contrarian basket,2020,8,54.43,544300
+Contrarian basket,2020,9,50.09,500900
+Contrarian basket,2020,10,13.76,137600
+Contrarian basket,2020,11,-27.34,-273400
+Contrarian basket,2020,12,16.32,163200
+Contrarian basket,2021,1,57.96,579600
+Contrarian basket,2021,2,29.75,297500
+Contrarian basket,2021,3,61.13,611300
+Contrarian basket,2021,4,19.49,194900
+Contrarian basket,2021,5,65.15,651500
+Contrarian basket,2021,6,-4.84,-48400
+Contrarian basket,2021,7,-0.37,-3700
+Contrarian basket,2021,8,28.28,282800
+Contrarian basket,2021,9,31.34,313400
+Contrarian basket,2021,10,65.33,653300
+Contrarian basket,2021,11,-23.39,-233900
+Contrarian basket,2021,12,29.67,296700
+Contrarian basket,2022,1,10.07,100700
+Contrarian basket,2022,2,28.92,289200
+Contrarian basket,2022,3,-10.44,-104400
+Contrarian basket,2022,4,17.55,175500
+Contrarian basket,2022,5,39.02,390200
+Contrarian basket,2022,6,25.1,251000
+Contrarian basket,2022,7,34.7,347000
+Contrarian basket,2022,8,-5.0,-50000
+Contrarian basket,2022,9,28.35,283500
+Contrarian basket,2022,10,39.79,397900
+Contrarian basket,2022,11,0.14,1400
+Contrarian basket,2022,12,52.86,528600
+Contrarian basket,2023,1,32.62,326200
+Contrarian basket,2023,2,10.41,104100
+Contrarian basket,2023,3,25.31,253100
+Contrarian basket,2023,4,-2.68,-26800
+Contrarian basket,2023,5,-2.66,-26600
+Contrarian basket,2023,6,15.46,154600
+Contrarian basket,2023,7,0.77,7700
+Contrarian basket,2023,8,20.62,206200
+Contrarian basket,2023,9,49.12,491200
+Contrarian basket,2023,10,-17.31,-173100
+Contrarian basket,2023,11,32.72,327200
+Contrarian basket,2023,12,24.24,242400
+Contrarian basket,2024,1,56.25,562500
+Contrarian basket,2024,2,42.01,420100
+Contrarian basket,2024,3,21.31,213100
+Contrarian basket,2024,4,16.34,163400
+Contrarian basket,2024,5,13.91,139100
+Contrarian basket,2024,6,-35.97,-359700
+Contrarian basket,2024,7,53.1,531000
+Contrarian basket,2024,8,12.44,124400
+Contrarian basket,2024,9,0.39,3900
+Contrarian basket,2024,10,43.7,437000
+Contrarian basket,2024,11,-7.29,-72900
+Contrarian basket,2024,12,-18.66,-186600
+Contrarian basket,2025,1,31.15,311500
+Contrarian basket,2025,2,5.05,50500
+Contrarian basket,2025,3,27.67,276700
+Contrarian basket,2025,4,-0.57,-5700
+Contrarian basket,2025,5,3.37,33700
+Contrarian basket,2025,6,1.59,15900
+Contrarian basket,2025,7,5.56,55600
+Contrarian basket,2025,8,-4.07,-40700
+Contrarian basket,2025,9,3.74,37400
+Contrarian basket,2025,10,30.57,305700
+Contrarian basket,2025,11,22.21,222100
+Contrarian basket,2025,12,8.14,81400
+Gap trading,2020,1,0.0,0
+Gap trading,2020,2,45.15,451500
+Gap trading,2020,3,31.24,312400
+Gap trading,2020,4,-14.45,-144500
+Gap trading,2020,5,43.25,432500
+Gap trading,2020,6,12.32,123200
+Gap trading,2020,7,57.48,574800
+Gap trading,2020,8,-6.24,-62400
+Gap trading,2020,9,7.54,75400
+Gap trading,2020,10,3.07,30700
+Gap trading,2020,11,-16.82,-168200
+Gap trading,2020,12,56.82,568200
+Gap trading,2021,1,59.37,593700
+Gap trading,2021,2,69.77,697700
+Gap trading,2021,3,41.53,415300
+Gap trading,2021,4,11.12,111200
+Gap trading,2021,5,12.81,128100
+Gap trading,2021,6,67.56,675600
+Gap trading,2021,7,35.57,355700
+Gap trading,2021,8,28.44,284400
+Gap trading,2021,9,33.2,332000
+Gap trading,2021,10,12.05,120500
+Gap trading,2021,11,-15.9,-159000
+Gap trading,2021,12,19.83,198300
+Gap trading,2022,1,18.92,189200
+Gap trading,2022,2,7.34,73400
+Gap trading,2022,3,57.37,573700
+Gap trading,2022,4,58.08,580800
+Gap trading,2022,5,32.44,324400
+Gap trading,2022,6,46.23,462300
+Gap trading,2022,7,5.16,51600
+Gap trading,2022,8,23.7,237000
+Gap trading,2022,9,72.13,721300
+Gap trading,2022,10,46.92,469200
+Gap trading,2022,11,66.98,669800
+Gap trading,2022,12,83.77,837700
+Gap trading,2023,1,77.86,778600
+Gap trading,2023,2,27.61,276100
+Gap trading,2023,3,43.21,432100
+Gap trading,2023,4,-3.57,-35700
+Gap trading,2023,5,1.74,17400
+Gap trading,2023,6,54.66,546600
+Gap trading,2023,7,7.22,72200
+Gap trading,2023,8,30.77,307700
+Gap trading,2023,9,17.11,171100
+Gap trading,2023,10,42.19,421900
+Gap trading,2023,11,22.34,223400
+Gap trading,2023,12,19.22,192200
+Gap trading,2024,1,38.65,386500
+Gap trading,2024,2,52.45,524500
+Gap trading,2024,3,45.99,459900
+Gap trading,2024,4,12.14,121400
+Gap trading,2024,5,4.27,42700
+Gap trading,2024,6,11.57,115700
+Gap trading,2024,7,7.01,70100
+Gap trading,2024,8,10.65,106500
+Gap trading,2024,9,36.68,366800
+Gap trading,2024,10,15.5,155000
+Gap trading,2024,11,10.23,102300
+Gap trading,2024,12,-6.22,-62200
+Gap trading,2025,1,11.13,111300
+Gap trading,2025,2,31.95,319500
+Gap trading,2025,3,17.52,175200
+Gap trading,2025,4,3.58,35800
+Gap trading,2025,5,13.07,130700
+Gap trading,2025,6,-10.02,-100200
+Gap trading,2025,7,-2.67,-26700
+Gap trading,2025,8,24.77,247700
+Gap trading,2025,9,39.18,391800
+Gap trading,2025,10,-9.79,-97900
+Gap trading,2025,11,14.74,147400
+Gap trading,2025,12,24.66,246600
+Opening-range breakout,2020,1,18.91,189100
+Opening-range breakout,2020,2,19.0,190000
+Opening-range breakout,2020,3,17.1,171000
+Opening-range breakout,2020,4,9.72,97200
+Opening-range breakout,2020,5,19.73,197300
+Opening-range breakout,2020,6,-4.8,-48000
+Opening-range breakout,2020,7,-0.48,-4800
+Opening-range breakout,2020,8,13.74,137400
+Opening-range breakout,2020,9,-0.59,-5900
+Opening-range breakout,2020,10,0.52,5200
+Opening-range breakout,2020,11,-8.06,-80600
+Opening-range breakout,2020,12,-10.13,-101300
+Opening-range breakout,2021,1,12.4,124000
+Opening-range breakout,2021,2,-16.91,-169100
+Opening-range breakout,2021,3,2.72,27200
+Opening-range breakout,2021,4,6.06,60600
+Opening-range breakout,2021,5,12.2,122000
+Opening-range breakout,2021,6,-7.07,-70700
+Opening-range breakout,2021,7,-8.94,-89400
+Opening-range breakout,2021,8,29.15,291500
+Opening-range breakout,2021,9,16.63,166300
+Opening-range breakout,2021,10,8.17,81700
+Opening-range breakout,2021,11,12.48,124800
+Opening-range breakout,2021,12,9.83,98300
+Opening-range breakout,2022,1,8.28,82800
+Opening-range breakout,2022,2,19.32,193200
+Opening-range breakout,2022,3,17.36,173600
+Opening-range breakout,2022,4,25.95,259500
+Opening-range breakout,2022,5,26.99,269900
+Opening-range breakout,2022,6,15.86,158600
+Opening-range breakout,2022,7,-4.94,-49400
+Opening-range breakout,2022,8,2.49,24900
+Opening-range breakout,2022,9,1.31,13100
+Opening-range breakout,2022,10,25.81,258100
+Opening-range breakout,2022,11,15.05,150500
+Opening-range breakout,2022,12,18.06,180600
+Opening-range breakout,2023,1,19.49,194900
+Opening-range breakout,2023,2,12.84,128400
+Opening-range breakout,2023,3,20.4,204000
+Opening-range breakout,2023,4,-5.51,-55100
+Opening-range breakout,2023,5,-10.46,-104600
+Opening-range breakout,2023,6,-16.18,-161800
+Opening-range breakout,2023,7,13.05,130500
+Opening-range breakout,2023,8,-4.31,-43100
+Opening-range breakout,2023,9,-5.36,-53600
+Opening-range breakout,2023,10,-0.51,-5100
+Opening-range breakout,2023,11,14.3,143000
+Opening-range breakout,2023,12,17.19,171900
+Opening-range breakout,2024,1,23.6,236000
+Opening-range breakout,2024,2,16.4,164000
+Opening-range breakout,2024,3,27.63,276300
+Opening-range breakout,2024,4,13.3,133000
+Opening-range breakout,2024,5,7.42,74200
+Opening-range breakout,2024,6,-6.26,-62600
+Opening-range breakout,2024,7,11.14,111400
+Opening-range breakout,2024,8,19.97,199700
+Opening-range breakout,2024,9,5.8,58000
+Opening-range breakout,2024,10,-4.31,-43100
+Opening-range breakout,2024,11,-4.03,-40300
+Opening-range breakout,2024,12,0.61,6100
+Opening-range breakout,2025,1,38.29,382900
+Opening-range breakout,2025,2,13.78,137800
+Opening-range breakout,2025,3,1.64,16400
+Opening-range breakout,2025,4,27.08,270800
+Opening-range breakout,2025,5,2.64,26400
+Opening-range breakout,2025,6,-7.22,-72200
+Opening-range breakout,2025,7,5.95,59500
+Opening-range breakout,2025,8,-4.59,-45900
+Opening-range breakout,2025,9,2.89,28900
+Opening-range breakout,2025,10,22.99,229900
+Opening-range breakout,2025,11,13.15,131500
+Opening-range breakout,2025,12,1.77,17700

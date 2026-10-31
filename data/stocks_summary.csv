@@ -1,0 +1,5 @@
+strategy,total_pnl,total_return_pct_on_10L,max_dd_pct_fixed_10L,sharpe,active_day_winrate_pct,worst_month_pct_on_10L
+Contrarian basket,14616800.0,1461.68,-38.299,3.284,52.49,-35.968
+Gap trading,18511970.0,1851.197,-35.486,4.176,55.691,-16.825
+Opening-range breakout,6075386.0,607.539,-41.635,2.156,50.845,-16.911
+All three combined,13068050.0,1306.805,-26.52,4.753,55.72,-17.409
